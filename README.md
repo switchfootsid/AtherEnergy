@@ -1,6 +1,6 @@
 # AtherEnergy
 
-Contains files for the assignment.
+Contains files for Locating Charging Stations
 
 - I just feel notebooks are a lucid way to communicate and visualize mathematical/algorithmic ideas. 
 - I've made the Notebook more from a presentation POV. Markdowns serve as the explanation and the code blocks as support when required.
